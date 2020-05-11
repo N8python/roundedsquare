@@ -1,0 +1,24 @@
+body {
+    background: rgb(206, 184, 217);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+div {
+    font-family: 'Lato', sans-serif;
+}
+
+button {
+    background-color: white !important;
+    transition: 250ms;
+}
+
+button:hover {
+    background-color: lightgrey !important;
+}
