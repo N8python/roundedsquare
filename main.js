@@ -1,6 +1,6 @@
 const display = document.getElementById("display");
 let counter = 1;
-let end = 3;
+let end = 4;
 document.getElementById("back").addEventListener("click", () => {
     if (counter > 1) {
         counter--;
